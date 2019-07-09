@@ -2,6 +2,8 @@
 
 There are 2 parts to this challenge.  Both challenges use core python to create counts and functions and print them out for the user to view.
 
+From the instructions README:  Both of these challenges encompasses a real-world situation where your newfound Python scripting skills can come in handy. These challenges are far from easy so expect some hard work ahead!
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
